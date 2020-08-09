@@ -30,6 +30,12 @@ Input:
 
 Output:
 14 5 4 5 14 
+
+Hint:For every element in arr[]:
+Count the number of element(say c1) less than the current node.
+Count the number of element(say c2) greater than the current node.
+Then total number of Binary Search Tree(BST) can be formed using current element as a root node
+is equals to the product of total number of BST formed using c1 elements and otal number of BST formed using c2 elements.
 """
 def fact(n) : 
     res = 1  
