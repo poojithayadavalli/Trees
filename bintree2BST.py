@@ -2,7 +2,9 @@
 
 Arjun is learning about binary trees and binary search trees.He got confused and constructed a binary tree instead of binary search Tree.So your task is given below
 
-Given a Binary Tree(level order traversal) with N nodes, convert it to a Binary Search Tree. The conversion must be done in such a way that keeps the original structure of Binary Tree.
+Given a Binary Tree(level order traversal) with N nodes, convert it to a Binary Search Tree. 
+
+The conversion must be done in such a way that keeps the original structure of Binary Tree.
 
 Input:
 
